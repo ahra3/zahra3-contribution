@@ -8,3 +8,6 @@ def sub(a,b):
 
 def multiply(a,b):
     return a*b
+
+def hello():
+    return print("hello world!")
